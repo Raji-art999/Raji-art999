@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raji-art999
+- 👋 Hi, I’m @Rajashree "you can call me Raji"
 - 👀 I’m interested in contributing to open-source projects in Python and C++
 - 📫 How to reach me kellerrajashree@gmail.com
 - ⚡ Fun fact: I enjoy combining coding with creativity, and I’ve developed projects that blend software development with innovative applications, like an Automated Essay Scoring system!
